@@ -1,0 +1,22 @@
+name: test
+channels:
+  - conda-forge
+  - psi4
+dependencies:
+    # Base depends
+  - python
+  - pip
+  - numpy
+  - plotly
+  - qcelemental
+  - psi4
+
+    # Testing
+  - pytest
+  - pytest-cov
+  - codecov
+
+    # Pip-only installs
+  - pip:
+    - opt-einsum
+
