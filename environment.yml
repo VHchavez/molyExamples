@@ -7,5 +7,4 @@ dependencies:
   - qcelemental
   - plotly
   - psi4
-  - pip:
-      opt_einsum
+  - opt_einsum
