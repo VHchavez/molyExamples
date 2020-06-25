@@ -1,3 +1,0 @@
-numpy
-qcelemental
-plotly>=4.0.0
