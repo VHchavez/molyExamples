@@ -1,7 +1,9 @@
 channels:
   - conda-forge
+  - psi4
 dependencies:
   - python=3
   - qcportal
   - qcelemental
   - plotly
+  - psi4
