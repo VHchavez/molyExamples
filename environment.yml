@@ -8,3 +8,6 @@ dependencies:
   - plotly
   - psi4
   - opt_einsum
+  - pip
+  - pip:
+      - moly
